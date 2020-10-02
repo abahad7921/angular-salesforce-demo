@@ -6,7 +6,7 @@ You can [run the application](http://angularjs-salesforce.herokuapp.com) and/or 
 
 ## Requirements
 
-It is assumbed that you have the following:
+It is assumed that you have the following:
 
 * Force.com Development Org with Remove Access setup (see [this video](http://www.youtube.com/watch?v=fq2ju2ML9GM) if you need help)
 * Ruby installed and running
